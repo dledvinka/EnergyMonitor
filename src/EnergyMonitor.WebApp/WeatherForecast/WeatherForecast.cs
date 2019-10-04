@@ -1,6 +1,6 @@
 using System;
 
-namespace EnergyMonitor.WebApp
+namespace EnergyMonitor.WebApp.WeatherForecast
 {
     public class WeatherForecast
     {
